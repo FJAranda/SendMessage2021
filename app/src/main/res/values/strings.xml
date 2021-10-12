@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="btsend">Enviar</string>
+    <string name="tvmessage">Mensaje a enviar: </string>
+</resources>
